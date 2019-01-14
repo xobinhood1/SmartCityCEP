@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "188239670513",
-    "firebase_url": "https://tech-for-cities.firebaseio.com",
-    "project_id": "tech-for-cities",
-    "storage_bucket": "tech-for-cities.appspot.com"
+    "project_number": "30218343411",
+    "firebase_url": "https://cep-dev.firebaseio.com",
+    "project_id": "cep-dev",
+    "storage_bucket": "cep-dev.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:188239670513:android:bc3f4359088330d2",
+        "mobilesdk_app_id": "1:30218343411:android:97605d523b65a3b8",
         "android_client_info": {
-          "package_name": "com.smartcep.nammachennai"
+          "package_name": "com.techforcities.nammaChennai"
         }
       },
       "oauth_client": [
         {
-          "client_id": "188239670513-Tmtpkhbjbrj6ab56l085cqe3g7nfavukn.apps.googleusercontent.com",
+          "client_id": "30218343411-s66b23apea4ndn80ckscf83019l38qla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techforcities.nammaChennai",
+            "certificate_hash": "0fbb6bc304a9f9a30f73a037c30f853e16f617d8"
+          }
+        },
+        {
+          "client_id": "30218343411-83l8ec3f4v52tilvb9j4b8ce8s91like.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC6ZBOVDk5bxt44GE-xuJpJ8Gb6fxWtTCE"
+          "current_key": "AIzaSyASPQC61p-UaWZQxbBJxuZufohN8ZpHjcI"
         }
       ],
       "services": {
@@ -29,8 +37,20 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30218343411-83l8ec3f4v52tilvb9j4b8ce8s91like.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30218343411-jaekits5m7sp49ccc8pqri093t40466v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techforcities.nammaChennai"
+              }
+            }
+          ]
         },
         "ads_service": {
           "status": 2
